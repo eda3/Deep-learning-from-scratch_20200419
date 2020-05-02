@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.venv/
 ch0*
 common
 dataset
